@@ -3,8 +3,10 @@
 ---
 #### Education
 Hanyang Univ. 2014~2021
+
 ---
 #### Interested 
+
 - <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React 
 - <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript 
 - <img src="https://i.imgur.com/bKn2svC.png" width="30px" height="30px"> TypeScript
@@ -13,9 +15,11 @@ Hanyang Univ. 2014~2021
 ![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-skyblue?logo=typescript)
 
+---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Namukk&show_icons=true&theme=tokyonight)
 
+---
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:skadnr625@gmail.com)](mailto:skadnr625@gmail.com)
 
