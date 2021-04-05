@@ -20,11 +20,7 @@ Hanyang Univ. 2014~2021
 <br/>
 <br/>
 
-—
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Namukk&show_icons=true&theme=tokyonight)
-
-—
 
 <br/>
 <br/>
