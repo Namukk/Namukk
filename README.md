@@ -5,7 +5,7 @@
 Hanyang Univ. 2014~2021
 
 ---
-#### Interested 
+#### Learning 
 
 - <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React 
 - <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript 
