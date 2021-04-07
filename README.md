@@ -5,19 +5,17 @@
 Hanyang Univ. 2014~2021
 
 ---
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Namukk&show_icons=true&theme=tokyonight">
+
 #### Learning 
 
-- <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React 
-- <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript 
+- <img src="https://i.imgur.com/dXxLDXd.png" width="30px" height="30px"> React
+- <img src="https://i.imgur.com/ONpHudP.png" width="30px" height="30px"> JavaScript
 - <img src="https://i.imgur.com/bKn2svC.png" width="30px" height="30px"> TypeScript
 
 ![react](https://img.shields.io/badge/react-blue?logo=react)
 ![javascript](https://img.shields.io/badge/javascript-yellow?logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-skyblue?logo=typescript)
-
----
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Namukk&show_icons=true&theme=tokyonight)
 
 ---
 
