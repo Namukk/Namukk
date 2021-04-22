@@ -1,4 +1,4 @@
-💻 Hi!! I'm studying for being front-web develper
+💻 Hi!! I'm studying for being front-web developer
 
 ---
 #### Education
